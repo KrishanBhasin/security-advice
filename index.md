@@ -80,7 +80,7 @@ TouchID/FaceID is safe to use, but Siri is not. Siri can reveal information abou
 
 Your phone *needs* to be receiving software updates from its manufacturer.
 
-**do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
+**Do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
 ## Passwords
 
