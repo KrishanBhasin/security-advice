@@ -34,7 +34,6 @@ Otherwise, use app-based multi factor authentication; [click here and follow thi
 
 ## Attachments
 
-
 Attachments are one of the biggest risks you face. Even attachments  coming from a trusted sender are a danger; if someone you know gets 
 their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
 
@@ -47,9 +46,7 @@ Here is the hierarchy of attachment safety, from safest to most risky:
 
 The least safe way to open an attachment is to double-click it on your laptop.  **Never do this.**
 
-
 Fun extra reading: https://decentsecurity.com/#/how-you-get-infected/
-
 
 ## Sharing Files
 
@@ -65,7 +62,7 @@ Uninstall apps you are not regularly using; if you need them again you can alway
 
 Limit apps' permissions to the minimum possible. If an app asks for lots of unexplained permissions, uninstall it (do you really want a flashlight app that needs access to your camera, messages & contacts?)
 
-Make sure you have at least a 4-digit key code or passphrase (6 digits is better; the number of possible codes goes from 10,000 to 1,000,000!) Avoid using dates in your passphrase.
+Make sure you have at least a 4-digit key code or passphrase (6 digits is better; the number of possible codes goes from 10,000 to 1,000,000!) Avoid using dates in your passcode.
 
 ### iPhone
 
@@ -73,21 +70,20 @@ Your phone needs to be receiving software updates from its manufacturer; at publ
 
 Your iPhone is the most secure device you have. Do whatever work you can on it. It is always better to read email, use Signal, and surf the web on your phone.
 
-TouchID is safe to use, but Siri is not. Siri can reveal information about your contacts even when the phone is locked.
+TouchID/FaceID is safe to use, but Siri is not. Siri can reveal information about your contacts even when the phone is locked.
 
 ### Android:
 
-Your phone needs to be receiving software updates from its manufacturer.
+Your phone *needs* to be receiving software updates from its manufacturer.
 
 **do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
 Make sure full disk encryption is turned on ([click here and follow this guide](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)) - this step is not needed for iPhones as it is already the default.
 
-<>
-
 ## Passwords
 
-We strongly recommend you install a password manager called 1password.
+We strongly recommend you install a password manager called [1password](https://1password.com/promo/wirecutter/). They even have a free offering for people involved in elections, [as candidates or officials](https://1password.com/for-democracy/). It is unclear whether this extends to candidates' teams, and how it interacts with election spending rules. 
+If in any doubt, sign up for the standard paid version and start using it, and then convert the account afterwards.
 
 Don’t reuse the same passwords (or similar passwords) across sites. It is better to keep a list of random passwords in a text file or Word document than it is to re-use passwords.
 
@@ -96,7 +92,7 @@ If you can remember your password, it is likely not strong enough.
 Any clever scheme you use to remember your passwords can be cracked within minutes by modern techniques. Pick truly random passwords 
 instead, and save them in a password manager like 1password.
 
-Move all your critical account passwords (email/facebook/twitter/<>) to 1password stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
+Move all your critical account passwords (email/facebook/twitter/etc.) to 1password stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
 
 ## Laptop
 
@@ -153,10 +149,6 @@ If you have a security key (see above), [click here and follow this guide](https
 
 Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
 
-## Slack
-
-It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Signal.
-
 
 ## Browser
 
@@ -171,6 +163,20 @@ Install and use the [uBlock Origin](https://chrome.google.com/webstore/detail/ub
 Make a habit of using incognito mode.
 
 If you are visiting websites that you feel are particularly dodgy, consider using a Chromebook for the purpose, or your phone.
+
+
+## Slack
+
+It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Signal.
+
+## Wi-Fi
+
+If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it. Install and use a VPN, either [Freedome](https://www.f-secure.com/gb-en/home/products/freedome), [IVPN](https://www.ivpn.net/), or [Tunnelbear](https://www.tunnelbear.com/).
+
+**Use these whenever you do not control the Wi-Fi.** 
+
+[Further reading here](https://thewirecutter.com/reviews/best-vpn-service/#the-competition)
+
 
 ## Getting Help
 
