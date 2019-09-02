@@ -1,10 +1,4 @@
 
-This is a lightly edited version of Macej C’s security guideline for  Congressional campaigns, with input from Motherboard's Guide to Not Getting Hacked, and @swiftonsecurity's decentsecurity.com. Changes include making it easier to follow when there has been no in-person training accompanying it, and adapting to Party-specific operations.
-
-
-=====
-
-
 Remember that  as a **parlimentary canddiate**, you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically. They are ranked in rough descending order of priority.
 
 
@@ -178,6 +172,10 @@ If you need help, or feel out of your depth, or there are mysterious white vans 
 Our goal is to help keep <> safe without overwhelming <>. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
 
 ### Credits:
+
+This is a lightly edited version of Tech Solidarity's security guideline for Congressional campaigns, with input from Motherboard's Guide to Not Getting Hacked, and @swiftonsecurity's decentsecurity.com. Changes include making it easier to follow when there has been no in-person training accompanying it.
+
+#### Links:
 https://techsolidarity.org/resources/congressional_howto.html
 https://decentsecurity.com/securing-your-computer/
 https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
