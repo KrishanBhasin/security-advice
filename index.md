@@ -27,10 +27,10 @@ Don’t have sensitive conversations over email. Use Signal or WhatsApp (see bel
 
 Don’t give any apps permissions to read or write your email inbox.
 
-Make sure your email is protected with by multi factor authentication. If you can afford to purchase a security key (£20, 
-recommended https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
+Make sure your email is protected with by multi factor authentication. If you can afford to purchase a [security key (£20, 
+recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
 
-Otherwise, use app-based multi factor authentication; follow these instructions: https://authy.com/guides/gmail/
+Otherwise, use app-based multi factor authentication; [click here and follow this guide](https://authy.com/guides/gmail/)
 
 ## Attachments
 
@@ -75,7 +75,7 @@ TouchID is safe to use, but Siri is not. Siri can reveal information about your 
 
 Your phone needs to be receiving software updates from its manufacturer.
 
-Make sure full disk encryption is turned on (https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/) - this step is not needed for iPhones as it is already the default.
+Make sure full disk encryption is turned on ([click here and follow this guide](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)) - this step is not needed for iPhones as it is already the default.
 
 <>
 
@@ -114,7 +114,7 @@ If it says you don’t have a TPM, here’s how to use BitLocker without a TPM.
 
 #### If you have a Mac:
 
-Follow these instructions: https://support.apple.com/en-gb/HT204837
+[click here and follow this guide](https://support.apple.com/en-gb/HT204837)
 
 If possible, consider getting a Chromebook. This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
 
@@ -132,9 +132,10 @@ Treat Twitter and Slack as a public forum,  even if you use their private messag
 
 ## Facebook
 
-Turn on two-factor auth in Facebook. If you have a security key (£20, see above) [follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
+Turn on two-factor auth in Facebook. If you have a security key (£20, see above) [click here and follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
 
-Otherwise, follow this guide for app-based MFA: https://authy.com/guides/facebook/
+Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/)
+ for app-based MFA:
 
 Take your phone number off your Facebook account.
 
@@ -142,9 +143,9 @@ Take your phone number off your Facebook account.
 
 Assume that anything you say in Twitter direct messages will one day be public.
 
-If you have a security key (see above), follow this guide: https://techsolidarity.org/resources/security_key_twitter.html
+If you have a security key (see above), [click here and follow this guide](https://techsolidarity.org/resources/security_key_twitter.html)
 
-Otherwise, follow this guide: https://authy.com/guides/twitter/
+Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
 
 ## Slack
 
@@ -159,7 +160,7 @@ On your iPhone, use Safari.
 
 On your Android, use Chrome.
 
-Install and use the uBlock Origin (https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and HTTPS Everywhere (https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) Chrome browser extensions.  Avoid using other extensions, as they have access to your browsing activity .
+Install and use the [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) and [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) Chrome browser extensions.  Avoid using other extensions, as they have access to your browsing activity .
 
 Make a habit of using incognito mode.
 
@@ -176,6 +177,6 @@ Our goal is to help keep <> safe without overwhelming <>. If you found this trai
 This is a lightly edited version of Tech Solidarity's security guideline for Congressional campaigns, with input from Motherboard's Guide to Not Getting Hacked, and @swiftonsecurity's decentsecurity.com. Changes include making it easier to follow when there has been no in-person training accompanying it.
 
 #### Links:
-https://techsolidarity.org/resources/congressional_howto.html
-https://decentsecurity.com/securing-your-computer/
-https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
+- https://techsolidarity.org/resources/congressional_howto.html
+- https://decentsecurity.com/securing-your-computer/
+- https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
