@@ -17,7 +17,7 @@ Turn on auto-updates on your phone and laptop, and don’t wait to apply them.
 
 Keep your Anti-Virus up to date. **Do not *ever* attempt use pirated antivirus software.**
 
-If your antivirus is set up by your employer, leave the settings as-is. 
+If your antivirus is set up by your employer, leave the settings as-is.
 
 Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software. [Follow instructions here](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
 
@@ -31,7 +31,7 @@ Don’t have sensitive conversations over email. Use WhatsApp (see below).
 
 Don’t give any apps permissions to read or write your email inbox.
 
-Make sure your email is protected with by multi factor authentication. 
+Make sure your email is protected with by multi factor authentication.
 
 **We highly recommend you set up Google Advanced Protection**; [follow the instructions here](https://landing.google.com/advancedprotection/). In order to do this you will need two Security Keys; [these cost around £20](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/)
 
@@ -39,7 +39,7 @@ Otherwise, use app-based multi factor authentication; [click here and follow thi
 
 ## Attachments
 
-Attachments are one of the biggest risks you face. Even attachments  coming from a trusted sender are a danger; if someone you know gets 
+Attachments are one of the biggest risks you face. Even attachments  coming from a trusted sender are a danger; if someone you know gets
 their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
 
 Here is the hierarchy of attachment safety, from safest to most risky:
@@ -83,17 +83,23 @@ Your phone *needs* to be receiving software updates from its manufacturer.
 **Do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
 ## Passwords
+### Password Manager
 
-We strongly recommend you install and use a password manager. [LastPass](https://www.lastpass.com/) offers a free version which lets you generate secure passwords and share them securely between your devices.
+Install and use a password manager on all your devices. [LastPass](https://www.lastpass.com/) offers a free version which lets you generate secure passwords and share them securely between your devices.
 
-Don’t reuse the same passwords (or similar passwords) across sites. It is better to keep a list of random passwords in a text file or Word document than it is to re-use passwords.
+**Don’t reuse the same passwords** (or similar passwords) across sites - most successful hijacks are done by trying people's passwords from another, poorly secured website. Instead, use the password manager to create long, unique and completely random passwords which are automatically entered in to the password field.
 
-If you can remember your password, it is likely not strong enough.
+For your "master" password, create a long memorable passphrase rather than a short, random and hard-to-remember password. [Consider this comic](https://xkcd.com/936/). Combined with Multi-Factor Authentication this will make for a very secure password store.
 
-Any clever scheme you use to remember your passwords can be cracked within minutes by modern techniques. Pick truly random passwords 
-instead, and save them in a password manager like LastPass.
+LastPass offers a [Security Challenge](https://helpdesk.lastpass.com/lastpass-security-challenge/) you can use regularly to ensure your passwords are secure.
 
-Move all your critical account passwords (email/Facebook/Twitter/etc.) to LastPass stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
+Move all your critical account passwords (email/Facebook/Twitter/etc.) to LastPass stored/generated ones. Progressively move other accounts over to LastPass as you log in to them naturally.
+
+### Multi-Factor Authentication
+
+Install [Authy](https://authy.com/) on your phone and follow their guides to set it up with all your accounts (set up LastPass using [this guide](https://helpdesk.lastpass.com/yo/multifactor-authentication-options/)). Sometimes this is referred to as TOTP, 2FA, MFA or "Google Authenticator". You will scan a 2D barcode and then the app will create new six-digit codes every 60 seconds.
+
+**Multi-Factor Authentication and a Password manager makes it so hard to break in to your online accounts most attackers would just give up!**
 
 ## Laptop
 
@@ -172,7 +178,7 @@ It’s fine to use Slack for coordinating and organizing, but be mindful of the 
 If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
 
 
-**Do not use Wi-Fi you cannot trust**. 
+**Do not use Wi-Fi you cannot trust**.
 
 If you must get online, use your mobile phone's 4G connection instead - browse directly from the mobile phone, or create a Wi-Fi hotspot which you can connect your other device to. *Use a long password for any Wi-Fi hotspots you create.*
 
