@@ -16,7 +16,7 @@ Turn on auto-updates on your phone and laptop, and don’t wait to apply them.
 ## Anti-Virus
 
 Uninstall all anti-virus software . Having antivirus is like putting a hole in your stomach to monitor for food poisoning; it creates more problems than it solves.
-The only exception is Windows Defender. It is safe to use, and turning it on will help you un-install other antivirus programs.
+The only exception is Windows Defender. It is safe to use, and turning it on will help you un-install other antivirus programs. [Follow instructions here](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
 
 
 ## Email
