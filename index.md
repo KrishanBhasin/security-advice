@@ -181,7 +181,7 @@ If you must get online, use your mobile phone's 4G connection instead - browse d
 
 If you need help, or feel out of your depth, or there are mysterious white vans outside your campaign HQ, contact us! We’ll do our best to connect you to security experts who can give you additional training.
 
-Our goal is to help keep <> safe without overwhelming <>. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
+Our goal is to help keep you safe without overwhelming you. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
 
 ### Credits:
 
