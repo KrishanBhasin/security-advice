@@ -44,7 +44,7 @@ their email hacked, the attacker may send you a message that looks just like a t
 
 Here is the hierarchy of attachment safety, from safest to most risky:
 
-1. Safest is to open them on an iPhone; Chrome on Android
+1. Safest is to open them on an iPhone
 1. Save them directly to Google Drive from Gmail. If you hover over an attachment in Gmail, you’ll see a ‘save in Google Drive’ icon. Open them in Google Drive
 1. Download them to disk, and upload them to Google Drive in your browser.  Make sure you delete the downloaded file, so you don’t accidentally double-click it in the future.
 
