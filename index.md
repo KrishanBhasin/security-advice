@@ -61,6 +61,10 @@ Don’t use file sharing services like Dropbox or Evernote. Stick to Google Driv
 
 Given the choice, use an iPhone over Android.
 
+Uninstall apps you are not regularly using; if you need them again you can always reinstall them.
+
+Limit apps' permissions to the minimum possible. If an app asks for lots of unexplained permissions, uninstall it (do you really want a flashlight app that needs access to your camera, messages & contacts?)
+
 Make sure you have at least a 4-digit key code or passphrase (6 digits is better; the number of possible codes goes from 10,000 to 1,000,000!) Avoid using dates in your passphrase.
 
 ### iPhone
@@ -74,6 +78,8 @@ TouchID is safe to use, but Siri is not. Siri can reveal information about your 
 ### Android:
 
 Your phone needs to be receiving software updates from its manufacturer.
+
+**do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
 Make sure full disk encryption is turned on ([click here and follow this guide](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)) - this step is not needed for iPhones as it is already the default.
 
