@@ -91,9 +91,9 @@ Don’t reuse the same passwords (or similar passwords) across sites. It is bett
 If you can remember your password, it is likely not strong enough.
 
 Any clever scheme you use to remember your passwords can be cracked within minutes by modern techniques. Pick truly random passwords 
-instead, and save them in a password manager like LastPAss.
+instead, and save them in a password manager like LastPass.
 
-Move all your critical account passwords (email/facebook/twitter/etc.) to 1password stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
+Move all your critical account passwords (email/Facebook/Twitter/etc.) to LastPass stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
 
 ## Laptop
 
