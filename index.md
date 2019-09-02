@@ -44,8 +44,7 @@ their email hacked, the attacker may send you a message that looks just like a t
 
 Here is the hierarchy of attachment safety, from safest to most risky:
 
-1. Safest is to open them on an iPhone.
-<<WHAT IS THE ANDROID ALTERNATIVE HERE?>>
+1. Safest is to open them on an iPhone
 1. Save them directly to Google Drive from Gmail. If you hover over an attachment in Gmail, you’ll see a ‘save in Google Drive’ icon. Open them in Google Drive
 1. Download them to disk, and upload them to Google Drive in your browser.  Make sure you delete the downloaded file, so you don’t accidentally double-click it in the future.
 
@@ -81,7 +80,7 @@ TouchID/FaceID is safe to use, but Siri is not. Siri can reveal information abou
 
 Your phone *needs* to be receiving software updates from its manufacturer.
 
-**do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
+**Do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
 ## Passwords
 
@@ -92,9 +91,9 @@ Don’t reuse the same passwords (or similar passwords) across sites. It is bett
 If you can remember your password, it is likely not strong enough.
 
 Any clever scheme you use to remember your passwords can be cracked within minutes by modern techniques. Pick truly random passwords 
-instead, and save them in a password manager like LastPAss.
+instead, and save them in a password manager like LastPass.
 
-Move all your critical account passwords (email/facebook/twitter/etc.) to 1password stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
+Move all your critical account passwords (email/Facebook/Twitter/etc.) to LastPass stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
 
 ## Laptop
 
@@ -166,7 +165,7 @@ If you are visiting websites that you feel are particularly dodgy, consider usin
 
 ## Slack
 
-It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Signal.
+It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Whatsapp.
 
 ## Wi-Fi
 
@@ -182,7 +181,7 @@ If you must get online, use your mobile phone's 4G connection instead - browse d
 
 If you need help, or feel out of your depth, or there are mysterious white vans outside your campaign HQ, contact us! We’ll do our best to connect you to security experts who can give you additional training.
 
-Our goal is to help keep <> safe without overwhelming <>. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
+Our goal is to help keep you safe without overwhelming you. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
 
 ### Credits:
 
