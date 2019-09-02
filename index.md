@@ -1,5 +1,5 @@
 
-Remember that  as a **parlimentary canddiate**, you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically. They are ranked in rough descending order of priority.
+Remember that as a **political activist of any kind**, you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically. They are ranked in rough descending order of priority.
 
 
 The good news is, if you follow these guidelines, you will have a high level of protection against being [‘Podesta-ed’](https://en.wikipedia.org/wiki/Podesta_emails). The easiest way to get this protection is to form good security habits before you need them.
@@ -15,21 +15,24 @@ Turn on auto-updates on your phone and laptop, and don’t wait to apply them.
 
 ## Anti-Virus
 
-Uninstall all anti-virus software . Having antivirus is like putting a hole in your stomach to monitor for food poisoning; it creates more problems than it solves.
+Keep your Anti-Virus up to date. **Do not *ever* attempt use pirated antivirus software.**
 
-The only exception is Windows Defender. It is safe to use, and turning it on will help you un-install other antivirus programs. [Follow instructions here](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
+If your antivirus is set up by your employer, leave the settings as-is. 
+
+Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software. [Follow instructions here](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
 
 
 ## Email
 
 Your personal email account holds the keys to your online life, and will be the primary target for attackers. Use Gmail for your personal email, and Chrome as your web browser.
 
-Don’t have sensitive conversations over email. Use Signal or WhatsApp (see below).
+Don’t have sensitive conversations over email. Use WhatsApp (see below).
 
 Don’t give any apps permissions to read or write your email inbox.
 
-Make sure your email is protected with by multi factor authentication. If you can afford to purchase a [security key (£20, 
-recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
+Make sure your email is protected with by multi factor authentication. 
+
+**We highly recommend you set up Google Advanced Protection**; [follow the instructions here](https://landing.google.com/advancedprotection/). In order to do this you will need two Security Keys; [these cost around £20](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/)
 
 Otherwise, use app-based multi factor authentication; [click here and follow this guide](https://authy.com/guides/gmail/)
 
@@ -79,19 +82,16 @@ Your phone *needs* to be receiving software updates from its manufacturer.
 
 **do not sideload apps**. This bypasses many security protections Google put in place to protect Android phones, and is a HUGE infection vector.
 
-Make sure full disk encryption is turned on ([click here and follow this guide](https://www.howtogeek.com/141953/how-to-encrypt-your-android-phone-and-why-you-might-want-to/)) - this step is not needed for iPhones as it is already the default.
-
 ## Passwords
 
-We strongly recommend you install a password manager called [1password](https://1password.com/promo/wirecutter/). They even have a free offering for people involved in elections, [as candidates or officials](https://1password.com/for-democracy/). It is unclear whether this extends to candidates' teams, and how it interacts with election spending rules. 
-If in any doubt, sign up for the standard paid version and start using it, and then convert the account afterwards.
+We strongly recommend you install and use a password manager. [LastPass](https://www.lastpass.com/) offers a free version which lets you generate secure passwords and share them securely between your devices.
 
 Don’t reuse the same passwords (or similar passwords) across sites. It is better to keep a list of random passwords in a text file or Word document than it is to re-use passwords.
 
 If you can remember your password, it is likely not strong enough.
 
 Any clever scheme you use to remember your passwords can be cracked within minutes by modern techniques. Pick truly random passwords 
-instead, and save them in a password manager like 1password.
+instead, and save them in a password manager like LastPAss.
 
 Move all your critical account passwords (email/facebook/twitter/etc.) to 1password stored/generated ones. Progressively move other accounts over to 1password as you log in to them naturally.
 
@@ -121,15 +121,13 @@ If it says you don’t have a TPM, here’s how to use BitLocker without a TPM.
 
 If possible, consider getting a Chromebook. This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
 
-Never  put USB drives (flash drives) in your computer.  This is an  extremely  common attack route. Plugging anything into a USB port is high risk.
+Never put USB drives (flash drives) in your computer. This is an extremely common attack route. Plugging anything into a USB port is high risk.
 
 ## Text Messages
 
-Use  WhatsApp  or  Signal  (from Open Whisper Systems) for sending text messages, and for group chat.
+Use WhatsApp for sending text messages, and for group chat.
 
-WhatsApp offers similar protection to Signal, but Facebook will know everything about who you messaged and when. For this reason, we recommend sticking with Signal.
-
-Avoid SMS  (regular text messages) or iMessage for private messaging. If you must use Facebook Messenger, make sure to turn on private conversations.
+**Avoid SMS (regular text messages)** or iMessage for private messaging. If you must use Facebook Messenger, make sure to turn on private conversations.
 
 Treat Twitter and Slack as a public forum,  even if you use their private message features.
 
@@ -137,8 +135,7 @@ Treat Twitter and Slack as a public forum,  even if you use their private messag
 
 Turn on two-factor auth in Facebook. If you have a security key (£20, see above) [click here and follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
 
-Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/)
- for app-based MFA:
+Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/) for app-based MFA:
 
 Take your phone number off your Facebook account.
 
@@ -172,11 +169,12 @@ It’s fine to use Slack for coordinating and organizing, but be mindful of the 
 
 ## Wi-Fi
 
-If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it. Install and use a VPN, either [Freedome](https://www.f-secure.com/gb-en/home/products/freedome), [IVPN](https://www.ivpn.net/), or [Tunnelbear](https://www.tunnelbear.com/).
+If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
 
-**Use these whenever you do not control the Wi-Fi.** 
 
-[Further reading here](https://thewirecutter.com/reviews/best-vpn-service/#the-competition)
+**Do not use Wi-Fi you cannot trust**. 
+
+If you must get online, use your mobile phone's 4G connection instead - browse directly from the mobile phone, or create a Wi-Fi hotspot which you can connect your other device to. *Use a long password for any Wi-Fi hotspots you create.*
 
 
 ## Getting Help
