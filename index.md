@@ -165,7 +165,7 @@ If you are visiting websites that you feel are particularly dodgy, consider usin
 
 ## Slack
 
-It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Signal.
+It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Whatsapp.
 
 ## Wi-Fi
 
