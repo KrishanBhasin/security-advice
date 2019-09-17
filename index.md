@@ -7,6 +7,11 @@ The good news is, if you follow these guidelines, you will have a high level of 
 
 Please don’t hesitate to contact us with questions.
 
+# Easy wins
+This section is intended to be a list of easy-to-follow activities. It will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the _Going Further_ section. 
+
+**Doing more than the `Easy Wins` is not needed for most people.**
+
 ## Updates
 
 By far the most important piece of advice we can give is: keep all your software up to date.
@@ -33,14 +38,17 @@ Don’t give any apps permissions to read or write your email inbox.
 
 Make sure your email is protected with by multi factor authentication.
 
-**We highly recommend you set up Google Advanced Protection**; [follow the instructions here](https://landing.google.com/advancedprotection/). In order to do this you will need two Security Keys; [these cost around £20](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/)
+**Make sure your email is protected with by multi factor authentication.**
+If you can afford to purchase a [security key (£20, 
+recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) and follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
+
+If you're planning on buying more than Security Key, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)
 
 Otherwise, use app-based multi factor authentication; [click here and follow this guide](https://authy.com/guides/gmail/)
 
 ## Attachments
 
-Attachments are one of the biggest risks you face. Even attachments  coming from a trusted sender are a danger; if someone you know gets
-their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
+Attachments are one of the biggest risks you face. Even attachments coming from a trusted sender are a danger; if someone you know gets their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
 
 Here is the hierarchy of attachment safety, from safest to most risky:
 
@@ -50,7 +58,6 @@ Here is the hierarchy of attachment safety, from safest to most risky:
 
 The least safe way to open an attachment is to double-click it on your laptop.  **Never do this.**
 
-Fun extra reading: https://decentsecurity.com/#/how-you-get-infected/
 
 ## Sharing Files
 
@@ -193,7 +200,46 @@ Our goal is to help keep you safe without overwhelming you. If you found this tr
 
 This is a lightly edited version of Tech Solidarity's security guideline for Congressional campaigns, with input from Motherboard's Guide to Not Getting Hacked, and @swiftonsecurity's decentsecurity.com. Changes include making it easier to follow when there has been no in-person training accompanying it.
 
-#### Links:
+
+# Going Further
+This section is not required for most activists, but **is recommended for PPCs and their immediate teams**. Even if you do not fall into that category, you will benefit from doing this. We have placed it into a separate section because the biggest gains in security posture come from the instructions above.
+
+## Google Advanced Protection
+**We highly recommend you set up Google Advanced Protection**; [follow the instructions here](https://landing.google.com/advancedprotection/). In order to do this you will need two Security Keys; [these cost around £20](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/).
+As before, if you're planning on buying more than 1, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)
+
+## Text Messages
+Use [Signal](https://www.signal.org/download/) from Open Whisper Systems wherever possible.
+
+WhatsApp and Signal offer identical protection of your message content, but with WhatsApp Facebook will know everything about who you messaged and when. For this reason, we recommend upgrading to Signal.
+
+## Password Managers
+For individual use, Lastpass' free tier is a fantastic offering, but offers no good way of sharing passwords between teammembers or families; to get this you will need to use a paid product. 
+For use across your entire family, [1Password's Family](https://1password.com/families/) is excellent.
+
+## Increased Windows 10 Security
+UAC is an extremely useful security tool that comes with Windows 10. By default it is set to level 3 (out of 4). By setting it to 4 you will ask Windows to alert you any time something attempts to make a system change. **This will warn you if a virus tries to act as an administrator**.
+
+1. Click on the Windows icon in the start bar, and type `Change User Account Control settings`.
+1. A window should open with a slider; slide it to the top (`Always notify`), and click `Okay`. 
+1. Your screen will dim and you will get a prompt asking if you want to allow changes to be made to your device. _This is the kind of alert you will see from now on._
+1. Click `Yes`.
+
+## Anti-Virus
+
+The benefit of running commercial antivirus software is marginal at best. The built in Windows Defender consistently rates as the best anti virus software around.
+Uninstall your antivirus software and enable Windows Defender.
+
+**Only do this if you own the device, not on a computer owned or maintained by your employer**
+
+
+
+
+
+### Links:
 - https://techsolidarity.org/resources/congressional_howto.html
 - https://decentsecurity.com/securing-your-computer/
 - https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide
+- https://decentsecurity.com/#/how-you-get-infected/
+
+### 
