@@ -141,7 +141,7 @@ Enable full disk encryption:
 ### Other kinds of computers
 - If possible, consider getting a Chromebook.
     - This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
-
+    - If all you will be doing is managing emails, browsing websites & writing documents in Google Docs, it will easily suffice.
 
 ## Text Messages
 
