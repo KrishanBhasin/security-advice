@@ -123,15 +123,15 @@ Enable full disk encryption:
 
 #### If you have Windows 10 Home:
 
-1. Go to: Start > Settings > System > About
+1. Go to: Start > Settings > System > Security > Device Encryption
 
-1. Look for the “Device encryption” setting at the bottom of the About pane.
-    -  If it’s not there, your computer does not support the limited encryption feature that Home supports.
+1. Click `Turn on`
+    -  If it’s not there or greyed out, your computer does not support the limited encryption feature that Home supports.
 
 #### If you have Windows 10 Pro:
 
 1. Right-click on Start > Control Panel > BitLocker Drive Encryption > Turn on BitLocker
-    - If it says you don’t have a TPM, here’s how to use BitLocker without a TPM.
+    - If it says you don’t have a TPM, [here’s how to use BitLocker without a TPM](https://www.howtogeek.com/howto/6229/how-to-use-bitlocker-on-drives-without-tpm/)
 
 #### If you have a Mac:
 
