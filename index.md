@@ -115,53 +115,59 @@ TouchID/FaceID is safe to use, but Siri is not. Siri can reveal information abou
 
 Remember that your phone is always more secure than your laptop.
 
+- Never put USB drives (flash drives) in your computer. This is an extremely common attack route. Plugging anything into a USB port is high risk.
+
 If you have a Windows laptop, make sure it’s running Windows 10.
 
 Enable full disk encryption:
 
 #### If you have Windows 10 Home:
 
-Go to: Start > Settings > System > About
+1. Go to: Start > Settings > System > About
 
-Look for the “Device encryption” setting at the bottom of the About pane. If it’s not there, your computer does not support the limited encryption feature that Home supports.
+1. Look for the “Device encryption” setting at the bottom of the About pane.
+    -  If it’s not there, your computer does not support the limited encryption feature that Home supports.
 
 #### If you have Windows 10 Pro:
 
-Right-click on Start > Control Panel > BitLocker Drive Encryption > Turn on BitLocker
-
-If it says you don’t have a TPM, here’s how to use BitLocker without a TPM.
+1. Right-click on Start > Control Panel > BitLocker Drive Encryption > Turn on BitLocker
+    - If it says you don’t have a TPM, here’s how to use BitLocker without a TPM.
 
 #### If you have a Mac:
 
-[click here and follow this guide](https://support.apple.com/en-gb/HT204837)
+- [Click here and follow this guide](https://support.apple.com/en-gb/HT204837)
 
-If possible, consider getting a Chromebook. This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
 
-Never put USB drives (flash drives) in your computer. This is an extremely common attack route. Plugging anything into a USB port is high risk.
+### Other kinds of computers
+- If possible, consider getting a Chromebook.
+    - This is a simplified computer, far more secure than an ordinary laptop, that can only run the Chrome browser.
+
 
 ## Text Messages
 
-Use WhatsApp for sending text messages, and for group chat.
+- Use WhatsApp for sending text messages, and for group chat.
 
-**Avoid SMS (regular text messages)** or iMessage for private messaging. If you must use Facebook Messenger, make sure to turn on private conversations.
+- **Avoid SMS (regular text messages)** or iMessage for private messaging.
+    - If you must use Facebook Messenger, make sure to turn on private conversations.
 
-Treat Twitter and Slack as a public forum,  even if you use their private message features.
+- Treat Twitter public forum
+    - (Even if you use the private message features)
 
 ## Facebook
 
-Turn on two-factor auth in Facebook. If you have a security key (£20, see above) [click here and follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
+- Turn on two-factor authentication in Facebook.
+    - If you have a security key (£20, see above) [click here and follow this guide](https://techsolidarity.org/resources/security_key_facebook.htm)
+    - Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/) for app-based MFA:
 
-Otherwise, [click here and follow this guide]( https://authy.com/guides/facebook/) for app-based MFA:
-
-Take your phone number off your Facebook account.
+- Take your phone number off your Facebook account.
 
 ## Twitter
 
-Assume that anything you say in Twitter direct messages will one day be public.
+- Assume that anything you say in Twitter direct messages will one day be public.
 
-If you have a security key (see above), [click here and follow this guide](https://techsolidarity.org/resources/security_key_twitter.html)
-
-Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
+- Turn on two-factor authentication in Twitter
+    - If you have a security key (see above), [click here and follow this guide](https://techsolidarity.org/resources/security_key_twitter.html)
+    - Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
 
 ## Multi-Factor Authentication
 
@@ -192,7 +198,10 @@ Otherwise, [click here and follow this guide](https://authy.com/guides/twitter/)
 
 ## Slack
 
-It’s fine to use Slack for coordinating and organizing, but be mindful of the conversations you have there. Move private discussions to Whatsapp.
+- Treat Slack messages like they will enter the public domain in the future
+    - (Even if you use the private message features)
+
+- It’s fine to use Slack for coordinating and organizing, _but be mindful of the conversations you have there._ Move private discussions to Whatsapp.
 
 ## Wi-Fi
 
