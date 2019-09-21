@@ -14,6 +14,15 @@ This guide is intended to contain a list of easy-to-follow activities.
 
 Other text is extra information or useful context. If you are in a rush, feel free to only follow the bullet points.
 
+The [New York Times](https://www.nytimes.com/programs/digital-security) has a very useful 7 day guide that walks you through many actions that overlap with this guide, but with an additional focus on privacy. It is a well written guide, and a great way to spread out what can seem like an overwhelming amount of advice into managable 15 minute chunks over the course of a week.
+
+You may wish to register for the 7 day guide, and go through it, using this webpage as a reference to come back to in the future.
+
+It runs as follows:
+- Day 1: Set Up a Password Manager
+- Day 2: Check Your Smartphone's Privacy Ssettings
+- Day 3: Protect Your Browsing
+- Day 4: Protect Your Laptop
 
 # Securing your online presence
 This section will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the `Going Further` section. 
