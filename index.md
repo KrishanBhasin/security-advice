@@ -30,9 +30,15 @@ By far the most important piece of advice we can give is: keep all your software
 
 - If your antivirus is set up by your employer, leave the settings as-is.
 
-Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software. [Follow instructions here](https://docs.microsoft.com/en-us/intune-user-help/turn-on-defender-windows)
+Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software. Set it up as follows:
+1. Click the Start Menu.
+1. Open up “Settings.” 
+1. Click on “Update & Security.” 
+1. Click the “Windows Security” tab and find “Virus and Threat Protection.” Here, you should see a green checkmark. If you don’t see a checkmark, click the “Turn On” button.
+1. If any of the other options don’t have a green checkmark, click on each one and follow the on-screen directions.
 
-Mac's do not need any antivirus installed to set up; it is built in to macOS.
+
+Mac's do not need any antivirus to be set up; it is built in to macOS.
 
 ## Email
 
