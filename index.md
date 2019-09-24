@@ -16,7 +16,7 @@ Other text is extra information or useful context. If you are in a rush, feel fr
 
 
 # Securing your online presence
-This section will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the `Going Further` section. 
+This section will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the [Going Further](#going-further) section. 
 
 ## Updates
 
@@ -42,7 +42,6 @@ Your personal email account holds the keys to your online life, and will be the 
 - Don’t have sensitive conversations over email. Use WhatsApp (see below).
 
 - Don’t give any apps permissions to read or write your email inbox.
-
 - **Make sure your email is protected with by multi factor authentication.**
     - If you can afford to purchase a [security key (£20, 
 recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) and follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
@@ -172,7 +171,7 @@ Enable full disk encryption:
 ## Multi-Factor Authentication
 
 - If you haven't already, install [Authy](https://authy.com/) on your phone and follow [their guides](https://authy.com/guides/) to set up any other online accounts you have
-    - Sometimes this is referred to as TOTP, 2FA, MFA or "Google Authenticator". You will scan a 2D barcode and then the app will create new six-digit codes every 60 seconds. The Security Key we [recommended earlier](relative link) is the most secure form of this.
+    - Sometimes this is referred to as TOTP, 2FA, MFA or "Google Authenticator". You will scan a 2D barcode and then the app will create new six-digit codes every 60 seconds. The Security Key we [recommended earlier](#email) is the most secure form of this.
     - Not all accounts support security keys, so use follow the Authy guides for them.
     - Set up LastPass using [this guide](https://support.logmeininc.com/lastpass/help/enable-multifactor-authentication-lp010002)
 
