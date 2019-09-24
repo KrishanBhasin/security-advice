@@ -38,7 +38,7 @@ Given the choice, on your personal Windows 10 computer use Windows Defender. It 
 1. If any of the other options don’t have a green checkmark, click on each one and follow the on-screen directions.
 
 
-Mac's do not need any antivirus to be set up; it is built in to macOS.
+Macs do not need any antivirus to be set up; it is built in to macOS.
 
 ## Email
 
