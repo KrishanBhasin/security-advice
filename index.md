@@ -30,13 +30,7 @@ By far the most important piece of advice we can give is: keep all your software
 
 - If your antivirus is set up by your employer, leave the settings as-is.
 
-Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software. Set it up as follows:
-1. Click the Start Menu.
-1. Open up “Settings.” 
-1. Click on “Update & Security.” 
-1. Click the “Windows Security” tab and find “Virus and Threat Protection.” Here, you should see a green checkmark. If you don’t see a checkmark, click the “Turn On” button.
-1. If any of the other options don’t have a green checkmark, click on each one and follow the on-screen directions.
-
+Given the choice, on your personal Windows 10 computer use Windows Defender. It is free and outperforms almost all commercial antivirus software.
 
 Macs do not need any antivirus to be set up; it is built in to macOS.
 
@@ -260,7 +254,9 @@ UAC is an extremely useful security tool that comes with Windows 10. By default 
 ## Anti-Virus
 
 The benefit of running commercial antivirus software is marginal at best. The built in Windows Defender consistently rates as the best anti virus software around.
-Uninstall your antivirus software and enable Windows Defender.
+Uninstall your antivirus software and folow the below instructions to set up Windows Defender.
+
+
 
 **Only do this if you own the device, not on a computer owned or maintained by your employer**
 
