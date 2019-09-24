@@ -14,16 +14,6 @@ This guide is intended to contain a list of easy-to-follow activities.
 
 Other text is extra information or useful context. If you are in a rush, feel free to only follow the bullet points.
 
-The [New York Times](https://www.nytimes.com/programs/digital-security) has a very useful 7 day guide that walks you through many actions that overlap with this guide, but with an additional focus on privacy. It is a well written guide, and a great way to spread out what can seem like an overwhelming amount of advice into managable 15 minute chunks over the course of a week.
-
-You may wish to register for the 7 day guide, and go through it, using this webpage as a reference to come back to in the future.
-
-It runs as follows:
-- Day 1: Set Up a Password Manager
-- Day 2: Check Your Smartphone's Privacy Ssettings
-- Day 3: Protect Your Browsing
-- Day 4: Protect Your Laptop
-
 # Securing your online presence
 This section will suffice for most people; if you are interested in going further (security is a gradient, not an absolute - you can always do more) then feel free to read the `Going Further` section. 
 
@@ -228,6 +218,28 @@ Enable full disk encryption:
 If you need help, or feel out of your depth, or there are mysterious white vans outside your campaign HQ, contact us! We’ll do our best to connect you to security experts who can give you additional training.
 
 Our goal is to help keep you safe without overwhelming you. If you found this training valuable, please spread the word to others. We can even try to send nerds to train anyone, anywhere!
+
+## 7 Day Walkthrough Guide
+
+The [New York Times](https://www.nytimes.com/programs/digital-security) has a very useful 7 day guide that walks you through many actions that overlap with this webpage, but with an additional focus on privacy.
+It is a well written guide, and a great way to spread out what can seem like an overwhelming amount of advice into managable chunks over the course of a week.
+
+You may wish to register for the 7 day guide, and go through it, using this webpage as a reference to come back to in the future.
+
+The days run as follows (with notes on how it differs to this guide):
+1. Set Up a Password Manager 
+    - Great explanations, they offer a choice of two password managers; both are great.
+2. Check Your Smartphone's Privacy Ssettings
+    - Good tips, focused on privacy rather than security
+3. Protect Your Browsing
+    - Excellent tips. The recommendation of [Privacy Badger](https://www.eff.org/privacybadger) is focused on privacy rather than security, and so isn't included in the guide above; installing it is still recommended!
+4. Protect Your Laptop
+5. Vaccinate Your Computer
+    - We don't feel you need to pay for MalwareBytes Premium, and haven't included it in our advice; it is still a good piece of software though which some people might feel they need
+6. Get All The Updates
+7. Lock Down Your Most Important Accounts
+    - Has the right idea, but skips over using a security key, the most secure way of locking down accounts. We **strongly reccomend you use a security key** where possible, over app-based MFA. We reccomend you use our links above followed by [Authy's guide](https://authy.com/)
+
 
 
 
