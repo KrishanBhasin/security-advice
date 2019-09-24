@@ -46,7 +46,7 @@ Your personal email account holds the keys to your online life, and will be the 
 - **Make sure your email is protected with by multi factor authentication.**
     - If you can afford to purchase a [security key (£20, 
 recommended)](https://www.amazon.co.uk/Yubico-Security-Key-USB-Authentication/dp/B07BYSB7FK/) and follow [instructions here](https://techsolidarity.org/resources/security_key_gmail.htm) to set it up.
-     _If you're planning on buying more than Security Key, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)_
+     _If you're planning on buying more than 1 Security Key, it is probably cheaper to order them directly from the company, [Yubico](https://www.yubico.com/product/security-key-by-yubico)_
     - Otherwise, use app-based multi factor authentication; [click here and follow this guide](https://authy.com/guides/gmail/)
 
 ## Attachments
