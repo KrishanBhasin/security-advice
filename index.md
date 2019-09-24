@@ -238,7 +238,7 @@ The days run as follows (with notes on how it differs to this guide):
     - We don't feel you need to pay for MalwareBytes Premium, and haven't included it in our advice; it is still a good piece of software which some people might feel they need
 6. Get All The Updates
 7. Lock Down Your Most Important Accounts
-    - Has the right idea, but skips over using a security key, the most secure way of locking down accounts. We **strongly reccomend you use a security key** where possible, over app-based MFA. We reccomend you use our links above followed by [Authy's guide](https://authy.com/)
+    - Has the right idea, but skips over using a security key, the most secure way of locking down accounts. We **strongly reccomend you use a security key** where possible, over app-based MFA. We reccomend you use our links above followed by [Authy's guide](https://authy.com/guides/)
 
 
 
