@@ -180,7 +180,7 @@ Face to face communication can seem secure since there's nothing recording you. 
 ## Phone calls
 Phone calls are perfect for remotely sharing information without it being recorded (usually). When making phone calls you have two options:
 
-1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
+1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed
     - Normal phone calls can be intercepted by criminals, calls through WhatsApp are encrypted
     - It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
 
