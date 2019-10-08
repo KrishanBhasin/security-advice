@@ -183,9 +183,10 @@ Phone calls are perfect for remotely sharing information without it being record
 1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
     - Normal phone calls can be intercepted by criminals, calls through WhatsApp are encrypted
     - It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
+    
 1) **Call normally** using your phone.
-   - Use this when calling landline numbers or people who do not have WhatsApp.
-   - Try to convince your contacts to also use WhatsApp!
+    - Use this when calling landline numbers or people who do not have WhatsApp.
+    - Try to convince your contacts to also use WhatsApp!
 
 - Before speaking to someone, ask them if you're on loudspeaker or if they're in earshot of anyone else
 - Some people will use call recording applications on their phones, so you should assume they are
