@@ -181,7 +181,7 @@ Face to face communication can seem secure since there's nothing recording you. 
 Phone calls are perfect for remotely sharing information without it being recorded (usually). When making phone calls you have two options:
 
 1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed
-    - Normal phone calls can be intercepted by criminals, calls through WhatsApp are encrypted
+    - Normal phone calls can be intercepted by criminals, **calls through WhatsApp are encrypted**
     - It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
 
 2) **Call normally** using your phone.
@@ -195,7 +195,7 @@ Phone calls are perfect for remotely sharing information without it being record
 
 [WhatsApp](https://www.whatsapp.com/) is the most secure messenger service _you_ will use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
 
-- Always have conversations on WhatsApp - never use SMS/Email/etc for internal communications
+- Always have conversations on WhatsApp - **never use SMS/Email/etc for internal communications**
 - Make sure messages only go to people that need to see them
   - Don't send out confidential information to groups of volunteers when only a few specific people need that information
   - Leaks from members (in the pub, boasting to journalists, etc) are common
