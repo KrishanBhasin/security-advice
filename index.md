@@ -67,8 +67,11 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
 
 
 ### Unlocking your phone
-- Ensure you use a strong, long passphrase or pin on your phone (even with fingerprint or Face ID)
+- Ensure you use a strong, long passphrase or pin on your phone (even with fingerprint or FaceID)
   - **Don't share this with anyone**, and if you do then reset it afterwards
+- Set your phone to hide notifications until unlocked. As almost all modern phones have a fingerprint sensor or FaceID, it is still extremely quick and easy to view your notifications when needed. To set it up:
+  - On iPhone go to `Settings` -> `Notifications` -> `Show Previews`, and set to `When Unlocked`.
+  - On Android go to `Settings` -> `Sound & Notifications` -> `When Device Is Locked`, and set to `Hide Sensitive Notification Content`
 - Face ID and fingerprint unlocking _is_ safe, but remember the risks:
   - Face ID can be unlocked by another person pointing your phone at you before running off
   - Fingerprint unlock can be used by someone touching your phone to your finger while you're asleep (e.g. on a flight)
