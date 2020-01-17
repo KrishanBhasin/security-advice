@@ -67,8 +67,11 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
 
 
 ### Unlocking your phone
-- Ensure you use a strong, long passphrase or pin on your phone (even with fingerprint or Face ID)
+- Ensure you use a strong, long passphrase or pin on your phone (even with fingerprint or FaceID)
   - **Don't share this with anyone**, and if you do then reset it afterwards
+- Set your phone to hide notifications until unlocked. As almost all modern phones have a fingerprint sensor or FaceID, it is still extremely quick and easy to view your notifications when needed. To set it up:
+  - On iPhone go to `Settings` -> `Notifications` -> `Show Previews`, and set to `When Unlocked`.
+  - On Android go to `Settings` -> `Sound & Notifications` -> `When Device Is Locked`, and set to `Hide Sensitive Notification Content`
 - Face ID and fingerprint unlocking _is_ safe, but remember the risks:
   - Face ID can be unlocked by another person pointing your phone at you before running off
   - Fingerprint unlock can be used by someone touching your phone to your finger while you're asleep (e.g. on a flight)
@@ -180,15 +183,17 @@ Face to face communication can seem secure since there's nothing recording you. 
 ## Phone calls
 Phone calls are perfect for remotely sharing information without it being recorded (usually). When making phone calls you have two options:
 
-1) **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed
+1 **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
+    
+- Normal phone calls can be intercepted by criminals; calls through WhatsApp are encrypted
+- It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
 
-    - Normal phone calls can be intercepted by criminals, **calls through WhatsApp are encrypted**
-    - It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
+2 **Call normally** using your phone.
+   
+- Use this when calling landline numbers or people who do not have WhatsApp.
+   - Try to convince your contacts to also use WhatsApp!
 
-2) **Call normally** using your phone.
-
-    - Use this when calling landline numbers or people who do not have WhatsApp.
-    - Try to convince your contacts to also use WhatsApp!
+&nbsp;
 
 - Before speaking to someone, ask them if you're on loudspeaker or if they're in earshot of anyone else
 - Some people will use call recording applications on their phones, so you should assume they are
