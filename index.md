@@ -1,5 +1,5 @@
 ---
-title: Security advice for Lib Dem Activists
+title: Security advice for Normal People
 ---
 
 # Why you should follow this advice
