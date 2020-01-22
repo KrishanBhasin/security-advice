@@ -8,6 +8,11 @@ There is no such thing as "perfect security", but following these guidelines wil
 It presents a prescriptive list of actions you can take to immediately increase your security posture.
 
 # Table of contents
+- [Logging in](#logging-in)
+  * [Passwords](#passwords)
+  * [PINs](#pins)
+  * [Multi-Factor Authentication](#multi-factor-authentication)
+  * [Logging out](#logging-out)
 - [Phone](#phone)
   * [Choosing a new phone](#choosing-a-new-phone)
   * [Updates](#updates)
@@ -24,13 +29,62 @@ It presents a prescriptive list of actions you can take to immediately increase 
   * [Phone calls](#phone-calls)
   * [WhatsApp](#whatsapp)
   * [Email](#email)
-- [Security](#security)
-  * [Passwords](#passwords)
-  * [PINs](#pins)
-  * [Multi-Factor Authentication](#multi-factor-authentication)
-  * [Logging out](#logging-out)
-  * [Wi-Fi](#wi-fi)
 - [Online Presence](#online-presence)
+- [Wi-Fi](#wi-fi)
+
+
+# Logging in
+## Passwords
+Weak passwords are a common way of breaking in to computers. Most passwords under 8 characters can be broken in minutes, some in seconds.
+An extremely common way to get hacked is for a set of login/passwords to be leaked, which hackers then go and try on hundreds of other online services. You can see if your information has been found in a breach at [Have I Been Pwned](https://haveibeenpwned.com/).
+
+The key takeaway is **don’t reuse the same passwords** (or similar passwords) across sites
+
+To fix this, install and use a password manager.
+
+The general workflow is as follows:
+1. Create a 'master password'. Try to use a phrase instead
+    - Choose four or more random words (e.g. battery, horse, staple, correct)
+        - Ensure they're actually random, they can't be a cogent sentence
+        - Try flipping through a book and picking words at random
+        - Avoid common words like conjunctives (and, or, etc)
+    - Piece them together in to a single phrase with capital letters (`BatteryHorseStapleCorrect`)
+    - Add some numbers and/or punctuation (`BatteryHorseStaple?Correct!`)
+    - Don't use any examples you see on the internet, including these ones.
+1. Migrate passwords for your key accounts over to the password manager
+    - These include your email addresses, social media accounts, and bank accounts
+    - Use the password manager's built-in password generator; go for the longest password that the website will accept (generally, length matters more than "complexity")
+1. Migrate other accounts as you log in to them naturally
+    - As you use your other online accounts, you will naturally need to log in to them. If you log in to an account and find yourself using an old password, or a password that you can remember, migrate it to your password manager and make it long and complex!
+    - You can, of course, migrate as many passwords as you can in one go, but it can often be less overwhelming to do it in small batches
+
+
+You have two options; [LastPass](https://www.lastpass.com/) or [1Password](https://1password.com).
+(I personally prefer 1Password and use its [Families](https://1password.com/families/) product)
+
+
+## PINs
+PINs are very insecure since there are many fewer combinations of numbers to try than there are letters.
+- If you can, use a longer PIN. 6 numbers is better than 4 (100x better, to be exact)
+- Don't use dates, they are the first thing people will try
+- Use a PIN phrase:
+  - Choose a word
+  - Type that word out using the letters on a number pad
+  - This is easier to remember and much more secure
+
+## Multi-Factor Authentication
+Using a username, password, and something else is much more secure than just a username and password.
+- Install `Authy` on your phone and go through the setup process
+  - Remember to store your Authy Username/Password in LastPass
+- Set up all your online accounts with 2FA using [this guide](https://authy.com/guides/)
+    - If you find yourself short of time, set it up first for your email addresses, Facebook, & Twitter accounts **at a bare minimum**.
+- When you log in with your username and password, you will additionally have to enter a number from the `Authy` app on your phone in future
+
+## Logging out
+- _Always_ log out of a website when you've finished using it on your computer
+- _Never_ leave Facebook, WhatsApp, Twitter or anything else logged in
+  - Even if it's your own computer
+
 
 # Hardware
 ## Phone
@@ -272,70 +326,6 @@ Any data that isn't sensitive can be given a wider reach.
   - _Ensure Classified and Unclassified data are kept in separate folders!_
 - Additionally, feel free to share this data via email or Facebook or anything else -->
 
-# Security
-## Passwords
-Weak passwords are a common way of breaking in to computers. Most passwords under 8 characters can be broken in minutes, some in seconds.
-An extremely common way to get hacked is for a set of login/passwords to be leaked, which hackers then go and try on hundreds of other online services. You can see if your information has been found in a breach at [Have I Been Pwned](https://haveibeenpwned.com/).
-
-The key takeaway is **don’t reuse the same passwords** (or similar passwords) across sites
-
-To fix this, install and use a password manager.
-
-The general workflow is as follows:
-1. Create a 'master password'. Try to use a phrase instead
-    - Choose four or more random words (e.g. battery, horse, staple, correct)
-        - Ensure they're actually random, they can't be a cogent sentence
-        - Try flipping through a book and picking words at random
-        - Avoid common words like conjunctives (and, or, etc)
-    - Piece them together in to a single phrase with capital letters (`BatteryHorseStapleCorrect`)
-    - Add some numbers and/or punctuation (`BatteryHorseStaple?Correct!`)
-    - Don't use any examples you see on the internet, including these ones.
-1. Migrate passwords for your key accounts over to the password manager
-    - These include your email addresses, social media accounts, and bank accounts
-    - Use the password manager's built-in password generator; go for the longest password that the website will accept (generally, length matters more than "complexity")
-1. Migrate other accounts as you log in to them naturally
-    - As you use your other online accounts, you will naturally need to log in to them. If you log in to an account and find yourself using an old password, or a password that you can remember, migrate it to your password manager and make it long and complex!
-    - You can, of course, migrate as many passwords as you can in one go, but it can often be less overwhelming to do it in small batches
-
-
-You have two options; [LastPass](https://www.lastpass.com/) or [1Password](https://1password.com).
-(I personally prefer 1Password and use its [Families](https://1password.com/families/) product)
-
-
-## PINs
-PINs are very insecure since there are many fewer combinations of numbers to try than there are letters.
-- If you can, use a longer PIN. 6 numbers is better than 4 (100x better, to be exact)
-- Don't use dates, they are the first thing people will try
-- Use a PIN phrase:
-  - Choose a word
-  - Type that word out using the letters on a number pad
-  - This is easier to remember and much more secure
-
-## Multi-Factor Authentication
-Using a username, password, and something else is much more secure than just a username and password.
-- Install `Authy` on your phone and go through the setup process
-  - Remember to store your Authy Username/Password in LastPass
-- Set up all your online accounts with 2FA using [this guide](https://authy.com/guides/)
-    - If you find yourself short of time, set it up first for your email addresses, Facebook, & Twitter accounts **at a bare minimum**.
-- When you log in with your username and password, you will additionally have to enter a number from the `Authy` app on your phone in future
-
-## Logging out
-- _Always_ log out of a website when you've finished using it on your computer
-- _Never_ leave Facebook, WhatsApp, Twitter or anything else logged in
-  - Even if it's your own computer
-
-## Wi-Fi
-If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
-- Only use trusted Wi-Fi networks (your home, your office, etc)
-  - Other Wi-Fi networks may track and steal your data
-  - Other people on the same Wi-Fi network could track and steal your data
-- Otherwise, use your phone
-  - Browse directly from the mobile phone, or
-  - Create a Wi-Fi hotspot which you can connect your other device to
-    - On iPhone, [follow this guide](https://support.apple.com/en-gb/HT204023)
-    - On Android, follow [this guide](https://support.google.com/android/answer/9059108)
-    - *Use a long password for any Wi-Fi hotspots you create*
-
 # Online Presence
 It's important to be active online, but it's also dangerous. If someone compromises your account and writes something nasty pretending to be you, you'll have to spend precious campaign time trying to explain that it wasn't you. Don't fall victim.
 
@@ -358,3 +348,16 @@ It's important to be active online, but it's also dangerous. If someone compromi
 - Ensure you have a strong, unique password stored in LastPass
 - Assume that anything you say in Twitter direct messages will one day be public
 - Take time to go through your past tweets and replies for embarrassing or compromising messages
+
+
+## Wi-Fi
+If you do not own the Wi-Fi (e.g. you are in a cafe or hotel), then you shouldn't trust it.
+- Only use trusted Wi-Fi networks (your home, your office, etc)
+  - Other Wi-Fi networks may track and steal your data
+  - Other people on the same Wi-Fi network could track and steal your data
+- Otherwise, use your phone
+  - Browse directly from the mobile phone, or
+  - Create a Wi-Fi hotspot which you can connect your other device to
+    - On iPhone, [follow this guide](https://support.apple.com/en-gb/HT204023)
+    - On Android, follow [this guide](https://support.google.com/android/answer/9059108)
+    - *Use a long password for any Wi-Fi hotspots you create*
