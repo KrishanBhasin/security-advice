@@ -4,16 +4,8 @@ title: Security advice for Lib Dem Activists
 
 # Why you should follow this advice
 
-Remember that as a **political activist of any kind** you are at high risk. The guidelines below are intended to protect you against the kind of threats we have seen historically.
-
-The good news is, if you follow these guidelines, you will have a high level of protection against [experiencing what Dr. Liz did](https://twitter.com/EvendenKenyon/status/1156223496017440768) (Dr. Liz is our candidate in Uxbridge and South Ruislip).
-
-The easiest way to get this protection is to form good security habits before you need them.
-
-# How to use this guide
-This guide is a prescriptive list of things we recommend. It doesn't leave space for edge cases or "customisation" so take it at face value. We have put our reasoning in a second document, [here](why.html), which will allow you to customise it for your needs if you feel confident.
-
-This advice should be easy to use for most people.
+There is no such thing as "perfect security", but following these guidelines will protect you against most ways that people get hacked.
+It presents a prescriptive list of actions you can take to immediately increase your security posture.
 
 # Table of contents
 - [Phone](#phone)
@@ -49,7 +41,7 @@ This advice should be easy to use for most people.
 
 # Hardware
 ## Phone
-Your phone will probably be the most secure device available - it's also always with you, meaning it's less likely to be compromised (or stolen) while you're away from it.
+Your phone will probably be the most secure device available to you - it's also always with you, meaning it's less likely to be compromised (or stolen) while you're away from it.
 
 If in doubt, do it on your phone.
 
@@ -58,39 +50,36 @@ If in doubt, do it on your phone.
 - If you cannot afford an iPhone or strongly prefer Android phones, buy a phone from the [Android One](https://www.android.com/intl/en_uk/one/) or [Android Go](https://www.android.com/versions/go-edition/) range since they get regular updates directly from Google
 
 ### Updates
-You _must_ make sure it's still getting updates from your manufacturer - any criminal worth their salt will be using exploits that target old bugs that have since been fixed.
+You _must_ make sure it's still getting updates from your manufacturer. Software updates include security fixes; many attacks use exploits that target old bugs that have since been fixed.
 
 #### iPhone
-- If you have an iPhone 6S, 6S Plus or SE (or newer) you are [currently still getting updates](https://en.wikipedia.org/wiki/IPhone#History_and_availability)
-- The iPhone 6 and 6 Plus (and older models) are out of support. **Stop using these phones, upgrade**
+- If you have an iPhone 6S, 6S Plus or SE (or newer) you are [currently still getting updates](https://support.apple.com/en-gb/guide/iphone/iphe3fa5df43/ios)
+- The iPhone 6 and 6 Plus (and older models) are out of support. **Stop using these phones and upgrade**
 - Ensure you have the latest update. Do this by going to `Settings > General > Software Update`, tap `Download and Install`, then `Install`. Or [follow this guide](https://support.apple.com/en-gb/HT204204)
 
 #### Android
 - It's much more complicated to find out if an Android phone is getting regular updates, and can be affected by both your phone manufacturer and network. Contact your manufacturer
 - Ensure you have the latest update. Do this by going to `Settings > System > Advanced > System Update`, tap `Check for Update`. These instructions may vary from phone to phone
 
-### Backups
+<!-- ### Backups
 Without backups, if you lose or break your phone (or it breaks itself) you lose everything on your phone.
 
 #### iPhone
-- Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). 50GB (more than enough storage) is £0.79/month - do it
+- Backups are done through iCloud and will probably mean you have to [buy a plan](https://www.apple.com/uk/icloud/). 50GB (more than enough storage) is £0.79/month.
 - Go to `Settings > <your name> > iCloud > Backup` and turn on `iCloud Backup`
 - Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight
 - Periodically check back to see that backups are completing
 
 #### Android
-- Backups are done through Google One and you _will_ have to [buy a plan](https://one.google.com/about). 100GB (more than enough storage) is £1.59/month - do it
+- Backups are done through Google One and you will have to [buy a plan](https://one.google.com/about). 100GB (more than enough storage) is £1.59/month.
 - Install the [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) app
 - Open the Google One app, go to `Settings > Manage backup settings` and tick everything except `Back up using mobile data`
 - Make sure you connect your phone to your home Wi-Fi and leave it on charge overnight
-- Periodically check the `Home` tab of the Google One app to see that backups are completing
+- Periodically check the `Home` tab of the Google One app to see that backups are completing -->
 
 
 ### Misc
 - Go through your phone and delete any apps you're not currently using. Every app is a vector for attack; less apps are more safe. If you think you *might* need it in future, you can always reinstall when the need arises
-- Consider resetting your phone back to factory settings:
-  - This is a very effective way of clearing up your device (because it deletes everything)
-  - It is also a good opportunity to test your backups (better now than in the heat of a campaign)
 - Limit apps' permissions to the minimum possible. If in doubt, remove the permission from the app and see what breaks - you can always give it back!
   - On iPhone go to `Settings > Privacy` and go through each category in turn
   - On Android go to `Settings > Privacy > Permission manager` and go through each category in turn
@@ -113,16 +102,15 @@ Without backups, if you lose or break your phone (or it breaks itself) you lose 
     - On Android this needs Enabling first. Go to `Settings > Display > Advanced > Lock screen display` and enable `Show lockdown option`. Then after you lock your phone, press and hold the power button until the menu comes up and tap `lockdown`
 
 ## Computer
-Computers are often much less secure, especially Windows computers. Generally, avoid using a computer for confidential information where possible (though for many things this is not practical).
+Computers are less secure than fully up to date phones. Generally, avoid using a computer for confidential information where possible (though for many things this is not practical).
 
 ### Choosing a new computer
-- If you don't need to use a specific Windows application (e.g. Pageplus) then **buy a Chromebook**. These are _very_ secure, but check the limitations
+- If you don't need to use a specific Windows application then **buy a Chromebook**. These are _very_ secure, but check the limitations
   - [Check to see](https://support.google.com/chrome/a/answer/6220366?hl=en) when auto-updates end on the chromebook you plan on buying (5 years after the computer first went on sale). Once they end you will need a new one
-- If you must use applications like PagePlus then you'll need a Windows computer
-- Macs, though generally more secure than Windows computers, are less secure than Chromebooks and they work with less software than Windows
+- If you need specific applications, you can use either a Windows or a Mac
 
 ### Updates
-Updates are _essential_ to ensuring your computer stays at least somewhat secure - any criminal worth their salt will be using exploits that target old bugs that have since been fixed.
+Updates are _essential_ to ensuring your computer stays secure. As with phones, software updates include security fixes; many attacks use exploits that target old bugs that have since been fixed. An unpatched computer leaves you exposed to many kinds of attacks.
 
 #### Chromebook
 - Chromebooks get five years of updates from the day the computer went on sale
@@ -135,16 +123,14 @@ Updates are _essential_ to ensuring your computer stays at least somewhat secure
   - Check your Windows version [using this guide](https://support.microsoft.com/en-gb/help/13443/windows-which-version-am-i-running)
   - Check Windows updates using [this guide](https://support.microsoft.com/en-gb/help/4027667/windows-10-update)
 - Don't ignore update notifications, save your work and follow the instructions
-  - Yes, they can take a long time. It doesn't matter. Update to stay safe
 
 #### Mac
 - All Macs _must_ be running macOS the newest version of macOS and updates _must_ be enabled
   - Check your macOS version [using this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14)
   - Check automatic updates are enabled using [this guide](https://support.apple.com/en-bw/guide/mac-help/mchlpx1065/10.14/mac/10.14)
 - Don't ignore update notifications, save your work and follow the instructions
-  - Yes, they can take a long time. It doesn't matter. Update to stay safe
 
-
+<!-- 
 ### Backups
 Without backups, if your computer goes missing or goes wrong you will lose everything.
 
@@ -160,10 +146,10 @@ Without backups, if your computer goes missing or goes wrong you will lose every
 - Avoid having to back up:
   - Do everything in [Google Chrome](https://www.google.co.uk/chrome/)
   - Install [Google Backup and Sync](https://www.google.com/drive/download/)
-  - Ensure everything you can't do in Google Chrome (e.g. PagePlus documents) is sync'd to Google Drive using Google Backup and Sync
+  - Ensure everything you can't do in Google Chrome (e.g. PagePlus documents) is sync'd to Google Drive using Google Backup and Sync -->
 
 ### Encryption
-It's imperative that your computers are encrypted - if you don't do this, someone can simply bypass login and pick files straight off your computer:
+It's imperative that your computers are encrypted - if you don't do this, it is simple to bypass a login screen and pick files straight off your computer:
 - Chromebooks are encrypted by default
 - On Windows, follow [this guide](https://support.microsoft.com/en-gb/help/4028713/windows-10-turn-on-device-encryption). You might have to upgrade to the Pro version of Windows 10. If so, do it
 - On a Mac, enable FileVault using [this guide](https://support.apple.com/en-gb/HT204837)
@@ -188,12 +174,7 @@ It's imperative that your computers are encrypted - if you don't do this, someon
 ### Misc
 - Chromebooks being cluttered can't really harm you. If you run out of space, delete stuff
 - On Windows and Mac, be sure to delete apps you don't use and/or are of dubious origin
-- If you have a Windows PC, I recommend rebuilding it regularly:
-  - This is a very effective way of clearing up your device (because it deletes everything)
-  - It is also a good opportunity to test your backups (better now than in the heat of a campaign)
-  - Find a friendly local computer helper to help you with this
-- If you have a problem with a Mac, go to the local Apple store - it's free IT support
-- _Never_ use USB drives (flash drives) - use Google Drive instead
+- _Avoid_ using USB drives (flash drives) - use Google Drive instead
 - **ALWAYS** lock your computer when you step away from it, even if its only for a few seconds
     - On Chromebook: `[Search Key]` + `L`
     - On Windows: press `[Windows Key]` + `L`
@@ -204,16 +185,15 @@ It's imperative that your computers are encrypted - if you don't do this, someon
 # Communications
 We need to talk, to collaborate and organise - and this will be taken advantage of by malicious actors (opponents, journalists, mischief-makers).
 
-## Face to face
+<!-- ## Face to face
 Face to face communication can seem secure since there's nothing recording you. There might be.
 - Lower your voice. If you're in a bar or public area, assume someone's eavesdropping
 - Some people record their conversations with their phone, without admitting to it, so assume they are
-- For confidential conversations retire to a private space and ask people to ensure they're not recording
+- For confidential conversations retire to a private space and ask people to ensure they're not recording -->
 
-(You may think this is weird but I've recently noticed one of our local party executive members has been recording all our meetings with his phone, so that he can take notes later. He doesn't tell anyone he's doing that, nor do we know how carefully he handles/disposes of those recordings)
 
 ## Phone calls
-Phone calls are perfect for remotely sharing information without it being recorded (usually). When making phone calls you have two options:
+When making phone calls you have two options:
 
 1 **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
     
@@ -232,15 +212,12 @@ Phone calls are perfect for remotely sharing information without it being record
 
 ## WhatsApp
 
-[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service _you_ will use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
+[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service in wide use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
 
-- Always have conversations on WhatsApp - **never use SMS/Email/etc for internal communications**
+- Default to having conversations on WhatsApp
 - Make sure messages only go to people that need to see them
-  - Don't send out confidential information to groups of volunteers when only a few specific people need that information
-  - Leaks from members (in the pub, boasting to journalists, etc) are common
 - **Don't write anything down you can't risk leaking**
   - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
-  - Phone them instead
 - On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
   - _Always_ log out afterwards, or someone else can use your computer to see your messages
 
@@ -263,7 +240,7 @@ Attachments are one of the biggest risks you face. Even attachments coming from 
 - Where necessary to open it on a computer, make sure not to click any "Administrator" prompts
 - If the attachment doesn't open as expected or something weird happens, shut down the computer and find your friendly local computer helper
 
-
+<!-- 
 # Data
 We need to share data, and this should be broken down in to three categories:
 - Protected (voter data etc)
@@ -300,33 +277,44 @@ Any data that isn't sensitive can be given a wider reach.
 - Use [Google Drive](https://www.google.com/drive/) to store data
 - Use the sharing feature to create a "shared" folder and share with anyone you like
   - _Ensure Classified and Unclassified data are kept in separate folders!_
-- Additionally, feel free to share this data via email or Facebook or anything else
+- Additionally, feel free to share this data via email or Facebook or anything else -->
 
 # Security
 ## Passwords
 Weak passwords are a common way of breaking in to computers. Most passwords under 8 characters can be broken in minutes, some in seconds.
+An extremely common way to get hacked is for a set of login/passwords to be leaked, which hackers then go and try on hundreds of other online services. You can see if your information has been found in a breach at [Have I Been Pwned](https://haveibeenpwned.com/).
 
-- Install [LastPass](https://www.lastpass.com/) on your phone and in Chrome
-- Add all your usernames and passwords to LastPass
-- Use the password generator to create random, unique replacement passwords for all sites
-- Use the [LastPass Security Challenge](https://helpdesk.lastpass.com/lastpass-security-challenge/) to check your passwords are secure
-- Use a [passphrase](https://xkcd.com/936/) for your master password:
-  - Choose four or more random words (e.g. battery, horse, staple, correct)
-    - Ensure they're actually random, they can't be a cogent sentence
-    - Try flipping through a book and picking words at random
-    - Avoid common words like conjunctives (and, or, etc)
-  - Piece them together in to a single phrase with capital letters (`BatteryHorseStapleCorrect`)
-  - Add some numbers and/or punctuation (`BatteryHorseStaple?Correct!`)
-  - Keep logging in and out of LastPass until you remember the password automatically
-- **Don’t reuse the same passwords** (or similar passwords) across sites
-    - Most successful hijacks are done by trying taking people's passwords from one hacked website, and trying them on every single other website they can find.```
+The key takeaway is **don’t reuse the same passwords** (or similar passwords) across sites
+
+To fix this, install and use a password manager.
+
+The general workflow is as follows:
+1. Create a 'master password'. Try to use a phrase instead
+    - Choose four or more random words (e.g. battery, horse, staple, correct)
+        - Ensure they're actually random, they can't be a cogent sentence
+        - Try flipping through a book and picking words at random
+        - Avoid common words like conjunctives (and, or, etc)
+    - Piece them together in to a single phrase with capital letters (`BatteryHorseStapleCorrect`)
+    - Add some numbers and/or punctuation (`BatteryHorseStaple?Correct!`)
+    - Don't use any examples you see on the internet, including these ones.
+1. Migrate passwords for your key accounts over to the password manager
+    - These include your email addresses, social media accounts, and bank accounts
+    - Use the password manager's built-in password generator; go for the longest password that the website will accept (generally, length matters more than "complexity")
+1. Migrate other accounts as you log in to them naturally
+    - As you use your other online accounts, you will naturally need to log in to them. If you log in to an account and find yourself using an old password, or a password that you can remember, migrate it to your password manager and make it long and complex!
+    - You can, of course, migrate as many passwords as you can in one go, but it can often be less overwhelming to do it in small batches
+
+
+You have two options; [LastPass](https://www.lastpass.com/) or [1Password](https://1password.com).
+(I personally prefer 1Password and use its [Families](https://1password.com/families/) product)
+
 
 ## PINs
-PINs are very insecure since there are much less combinations of numbers to try than there are letters.
-- If you can, use a longer PIN. 6 numbers is better than 4
+PINs are very insecure since there are many fewer combinations of numbers to try than there are letters.
+- If you can, use a longer PIN. 6 numbers is better than 4 (100x better, to be exact)
 - Don't use dates, they are the first thing people will try
 - Use a PIN phrase:
-  - Choose a word that's longer than your PIN
+  - Choose a word
   - Type that word out using the letters on a number pad
   - This is easier to remember and much more secure
 
