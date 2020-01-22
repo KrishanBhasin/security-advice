@@ -13,6 +13,10 @@ It presents a prescriptive list of actions you can take to immediately increase 
   * [PINs](#pins)
   * [Multi-Factor Authentication](#multi-factor-authentication)
   * [Logging out](#logging-out)
+- [Communications](#communications)
+  * [Phone calls](#phone-calls)
+  * [WhatsApp](#whatsapp)
+  * [Email](#email)
 - [Phone](#phone)
   * [Choosing a new phone](#choosing-a-new-phone)
   * [Updates](#updates)
@@ -25,10 +29,6 @@ It presents a prescriptive list of actions you can take to immediately increase 
   * [Antivirus](#antivirus)
   * [Browser](#browser)
   * [Misc](#misc-1)
-- [Communications](#communications)
-  * [Phone calls](#phone-calls)
-  * [WhatsApp](#whatsapp)
-  * [Email](#email)
 - [Online Presence](#online-presence)
 - [Wi-Fi](#wi-fi)
 
@@ -84,6 +84,65 @@ Using a username, password, and something else is much more secure than just a u
 - _Always_ log out of a website when you've finished using it on your computer
 - _Never_ leave Facebook, WhatsApp, Twitter or anything else logged in
   - Even if it's your own computer
+
+
+# Communications
+We need to talk, to collaborate and organise - and this will be taken advantage of by malicious actors (opponents, journalists, mischief-makers).
+
+<!-- ## Face to face
+Face to face communication can seem secure since there's nothing recording you. There might be.
+- Lower your voice. If you're in a bar or public area, assume someone's eavesdropping
+- Some people record their conversations with their phone, without admitting to it, so assume they are
+- For confidential conversations retire to a private space and ask people to ensure they're not recording -->
+
+
+## Phone calls
+When making phone calls you have two options:
+
+1 **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
+    
+- Normal phone calls can be intercepted by criminals; calls through WhatsApp are encrypted
+- It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
+
+2 **Call normally** using your phone.
+   
+- Use this when calling landline numbers or people who do not have WhatsApp.
+   - Try to convince your contacts to also use WhatsApp!
+
+&nbsp;
+
+- Before speaking to someone, ask them if you're on loudspeaker or if they're in earshot of anyone else
+- Some people will use call recording applications on their phones, so you should assume they are
+
+## WhatsApp
+
+[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service in wide use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
+
+- Default to having conversations on WhatsApp
+- Make sure messages only go to people that need to see them
+- **Don't write anything down you can't risk leaking**
+  - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
+- On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
+  - _Always_ log out afterwards, or someone else can use your computer to see your messages
+
+## Email
+Email is _very insecure_. Unfortunately it's also very important. Never use it for anything that needs to be kept secret unless you have to.
+- Use Gmail for your personal email
+  - Install the Gmail app on your phone
+  - Install Google Chrome on your computer
+  - _Never_ access Gmail using anything else
+- _Never_ use email for confidential information (use WhatsApp instead)
+- _Never_ share documents/files through email (use Google Drive instead)
+- _Never_ give any apps permissions to read or write your email inbox
+
+### Attachments
+Attachments are one of the biggest risks you face. Even attachments coming from a trusted sender are a danger; if someone you know gets their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
+
+- Avoid sending attachments (use Google Drive instead)
+- Encourage your team to use Google Drive to share documents
+- Default to opening attachments on your phone instead of your computer
+- Where necessary to open it on a computer, make sure not to click any "Administrator" prompts
+- If the attachment doesn't open as expected or something weird happens, shut down the computer and find your friendly local computer helper
 
 
 # Hardware
@@ -228,64 +287,6 @@ It's imperative that your computers are encrypted - if you don't do this, it is 
     - On Mac: 
         - Set your Mac to [require a password _immediately_ after being locked or put to sleep](https://support.apple.com/en-gb/guide/mac-help/mchlp2270/mac)
         - Lock it using a shortcut, described [here](https://www.macworld.co.uk/how-to/mac/lock-mac-3639053/)
-
-# Communications
-We need to talk, to collaborate and organise - and this will be taken advantage of by malicious actors (opponents, journalists, mischief-makers).
-
-<!-- ## Face to face
-Face to face communication can seem secure since there's nothing recording you. There might be.
-- Lower your voice. If you're in a bar or public area, assume someone's eavesdropping
-- Some people record their conversations with their phone, without admitting to it, so assume they are
-- For confidential conversations retire to a private space and ask people to ensure they're not recording -->
-
-
-## Phone calls
-When making phone calls you have two options:
-
-1 **Use [WhatsApp](https://www.whatsapp.com/)** if you are trying to call someone on a mobile phone number, _and_ they have WhatsApp installed,
-    
-- Normal phone calls can be intercepted by criminals; calls through WhatsApp are encrypted
-- It will go over WiFi if you are connected, otherwise it will go over your 4G/data, using up part of your data limits. *It generally does not use much data though*
-
-2 **Call normally** using your phone.
-   
-- Use this when calling landline numbers or people who do not have WhatsApp.
-   - Try to convince your contacts to also use WhatsApp!
-
-&nbsp;
-
-- Before speaking to someone, ask them if you're on loudspeaker or if they're in earshot of anyone else
-- Some people will use call recording applications on their phones, so you should assume they are
-
-## WhatsApp
-
-[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service in wide use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
-
-- Default to having conversations on WhatsApp
-- Make sure messages only go to people that need to see them
-- **Don't write anything down you can't risk leaking**
-  - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
-- On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
-  - _Always_ log out afterwards, or someone else can use your computer to see your messages
-
-## Email
-Email is _very insecure_. Unfortunately it's also very important. Never use it for anything that needs to be kept secret unless you have to.
-- Use Gmail for your personal email
-  - Install the Gmail app on your phone
-  - Install Google Chrome on your computer
-  - _Never_ access Gmail using anything else
-- _Never_ use email for confidential information (use WhatsApp instead)
-- _Never_ share documents/files through email (use Google Drive instead)
-- _Never_ give any apps permissions to read or write your email inbox
-
-### Attachments
-Attachments are one of the biggest risks you face. Even attachments coming from a trusted sender are a danger; if someone you know gets their email hacked, the attacker may send you a message that looks just like a typical message, but actually contains a malicious payload (for example, an email from your campaign manager with a Word doc that actually installs a virus).
-
-- Avoid sending attachments (use Google Drive instead)
-- Encourage your team to use Google Drive to share documents
-- Default to opening attachments on your phone instead of your computer
-- Where necessary to open it on a computer, make sure not to click any "Administrator" prompts
-- If the attachment doesn't open as expected or something weird happens, shut down the computer and find your friendly local computer helper
 
 <!-- 
 # Data
