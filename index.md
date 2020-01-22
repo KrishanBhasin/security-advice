@@ -66,7 +66,7 @@ You have two options; [LastPass](https://www.lastpass.com/) or [1Password](https
 ## PINs
 PINs are very insecure since there are many fewer combinations of numbers to try than there are letters.
 - If you can, use a longer PIN. 6 numbers is better than 4 (100x better, to be exact)
-- Don't use dates, they are the first thing people will try
+- Don't use dates, they are the first thing people will try (especially anthing starting with `19..`)
 - Use a PIN phrase:
   - Choose a word
   - Type that word out using the letters on a number pad
