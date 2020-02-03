@@ -15,8 +15,8 @@ It presents a prescriptive list of actions you can take to immediately increase 
   * [PINs](#pins)
   * [Multi-Factor Authentication](#multi-factor-authentication)
 - [Communications](#communications)
+  * [Messaging](#Messaging)
   * [Phone calls](#phone-calls)
-  * [WhatsApp](#whatsapp)
   * [Email](#email)
 - [Devices](#devices)
   * [Phone](#phone)
@@ -93,6 +93,16 @@ Face to face communication can seem secure since there's nothing recording you. 
 - Some people record their conversations with their phone, without admitting to it, so assume they are
 - For confidential conversations retire to a private space and ask people to ensure they're not recording -->
 
+## Messaging
+
+[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service in wide use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
+
+- Default to having conversations on WhatsApp
+- **Don't write anything down you can't risk leaking**
+  - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
+- On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
+  - _Always_ log out afterwards, or someone else can use your computer to see your messages
+
 
 ## Phone calls
 When making phone calls you have two options:
@@ -107,15 +117,6 @@ When making phone calls you have two options:
 - Use this when calling landline numbers or people who do not have WhatsApp.
    - Try to convince your contacts to also use WhatsApp!
 
-## WhatsApp
-
-[WhatsApp](https://www.whatsapp.com/) is the most secure messenger service in wide use. A few others are _technically_ more secure but WhatsApp is so pervasive that you probably have it installed on your phone already, and so does the person you want to talk to.
-
-- Default to having conversations on WhatsApp
-- **Don't write anything down you can't risk leaking**
-  - Leaks happen. Screenshots, stolen phones, aggrieved colleagues
-- On computers, use the [WhatsApp Web](https://web.whatsapp.com/) interface
-  - _Always_ log out afterwards, or someone else can use your computer to see your messages
 
 ## Email
 Email is _very insecure_. Unfortunately it's also very important. Never use it for anything that needs to be kept secret unless you have to.
