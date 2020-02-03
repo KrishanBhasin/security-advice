@@ -15,7 +15,7 @@ It presents a prescriptive list of actions you can take to immediately increase 
   * [PINs](#pins)
   * [Multi-Factor Authentication](#multi-factor-authentication)
 - [Communications](#communications)
-  * [Messaging](#Messaging)
+  * [Messaging](#messaging)
   * [Phone calls](#phone-calls)
   * [Email](#email)
 - [Devices](#devices)
