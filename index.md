@@ -77,7 +77,7 @@ PINs are very insecure since there are many fewer combinations of numbers to try
 
 ## Multi-Factor Authentication
 Using a username, password, and something else is much more secure than just a username and password.
-- Install `Authy` on your phone and go through the setup process
+- Install [Authy](https://authy.com/download/) on your phone and go through the setup process
   - Remember to store your Authy Username/Password in your [password manager](#passwords)
 - Set up all your online accounts with 2FA using [this guide](https://authy.com/guides/)
     - If you find yourself short of time, set it up first for your email addresses, Facebook, and Twitter accounts **at a bare minimum**.
