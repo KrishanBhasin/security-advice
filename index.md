@@ -7,7 +7,9 @@ title: Security advice for Normal People
 There is no such thing as "perfect security", but following these guidelines will protect you against most ways that people get hacked.
 It presents a prescriptive list of actions you can take to immediately increase your security posture.
 
-###### Guide last updated 03-02-2020
+###### Guide last updated 22-02-2020
+
+For a quick cheat-sheet, [click here](cheatsheet.md)
 
 # Table of contents
 - [Logging in](#logging-in)
