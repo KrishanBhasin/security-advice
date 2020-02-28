@@ -9,7 +9,7 @@ It presents a prescriptive list of actions you can take to immediately increase 
 
 ###### Guide last updated 22-02-2020
 
-For a quick cheat-sheet, [click here](cheatsheet.md)
+For a quick cheat-sheet, [click here](https://krishanbhasin.com/security-cheatsheet)
 
 # Table of contents
 - [Logging in](#logging-in)
